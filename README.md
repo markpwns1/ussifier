@@ -11,7 +11,7 @@ console.log(ussifier.ussify("step-grandfather")); // "step-grussy"
 console.log(ussifier.ussify("anthropology")); // "anthropolussy"
 ```
 
-Note that words with syllable will simply be replaced with "ussy". This is intentional.
+Note that words with one syllable will simply be replaced with "ussy". This is intentional.
 
 ## Algorithm
 The algorithm is as follows:
